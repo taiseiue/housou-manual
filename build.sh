@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pip install lantana==2.12.1
+pip install lantana==2.13.0
 mkdocs build --site-dir site
